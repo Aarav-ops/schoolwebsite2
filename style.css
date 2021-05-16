@@ -1,0 +1,46 @@
+body{
+  background:linear-gradient(#fcf003 34%,#ff0d00 79%);
+  text-align:center;
+  background-repeat:no-repeat;
+}
+h1{
+  text-shadow:2px 2px #2c3991;
+  font-size:40px;
+  color:green;
+  font-family: 'Dancing Script', cursive;
+}
+p{
+  font-size:30px;
+  font-family: 'Lobster', cursive;
+}
+img{
+  border-radius:50px;
+}
+#mypic{
+    height: 350px;
+    width: 350px;
+    border-radius:100px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.menu{
+    list-style: none;
+    font-family: monospace;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: burlywood;
+    font-size: 25px;
+}
+.link{
+    color: azure;
+    display: inline;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+}
